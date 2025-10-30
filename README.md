@@ -16,11 +16,11 @@ Abaixo estão os links para os documentos criados durante a análise:
     ### [Relatório Completo com melhorias e Report de Bugs](https://docs.google.com/document/d/1IZOVg9KiqXUKiz-wOOvD-ruZp7KpmOzxsXoPiQGiVZk/edit?usp=sharing)
 
 * **📊 Planilha de Plano de Testes (Google Sheets):**
-    ### [Planilha de Casos de Teste](https://docs.google.com/spreadsheets/d/1rpFratj3s43TUvJ5ERy1UwvDHN_e6t_RZhRaFC8-vcA/edit?usp=sharing)
-
+    ### [Planilha de Casos de Teste](https://docs.google.com/spreadsheets/d/1-y0y2DpZC1cM2BDvcCqVOwhPf7-XSxQ4/edit?usp=sharing&ouid=108642266182806597024&rtpof=true&sd=true)
+                                     
 * **🎥 Evidências em Vídeo (Google Drive):**
     ### [Pasta Com os Vídeos de Evidência em Formato MP4](https://drive.google.com/drive/folders/13VXBuED4uHkvfkTilt3_Y5DFw3qdGKUs?usp=sharing)
-
+                                                          
 ---
 
 ### 3. Resumo da Análise
