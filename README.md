@@ -106,7 +106,7 @@ Para manter a clareza e organização, os artefatos gerados durante o desafio es
 
 ---
 
-## 9. Estrutura do Repositório
+## 9. Autoria
 **Autor:** João Silva  
 **Data:** 30/10/2025  
 **Contexto:** Beedoo - QA Chalenge
