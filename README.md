@@ -34,7 +34,19 @@ Durante os testes exploratórios no módulo de cursos, foram observadas as segui
 
 ---
 
-### 4. User Stories
+
+### 4. Decisões na Criação das User Stories
+As User Stories foram elaboradas com base na análise da aplicação e na inferência de suas funcionalidades essenciais. As principais decisões foram:
+
+* **Definição de Persona:** Como a aplicação não possui um sistema de login, foi definida a persona "Gerente de Cursos". Este perfil é o mais lógico para executar as ações de gerenciamento de conteúdo (criar, visualizar, editar e excluir), representando o usuário principal do sistema.
+
+* **Foco no Fluxo CRUD:** As histórias foram criadas para cobrir o ciclo de vida completo de um curso (CRUD - Create, Read, Update, Delete), mesmo que as funcionalidades de "Update" (Editar) e "Delete" (Excluir) estivessem ausentes ou com bugs. Isso garante uma cobertura completa do que seria esperado para um módulo de gerenciamento.
+
+* **Clareza e Valor:** Cada história foi escrita no formato padrão ("Como um..., Eu quero..., Para que...") para focar no valor que a funcionalidade entrega ao usuário, facilitando o entendimento dos requisitos e a criação dos cenários de teste.
+
+---
+
+### 5. User Stories
 
 **US-01: Cadastrar um Novo Curso**
 * **Como um** Gerente de Cursos,
@@ -58,7 +70,7 @@ Durante os testes exploratórios no módulo de cursos, foram observadas as segui
 
 ---
 
-### 5. Sugestões de Melhoria
+### 6. Sugestões de Melhoria
 
 | Área | Melhoria Proposta | Benefício |
 | :--- | :--- | :--- |
@@ -69,7 +81,7 @@ Durante os testes exploratórios no módulo de cursos, foram observadas as segui
 
 ---
 
-### 6. Ferramentas Utilizadas
+### 7. Ferramentas Utilizadas
 
 * **Gherkin / Google Sheets:** Para criação e documentação dos casos de teste.
 * **Google Docs:** Para a elaboração do relatório final de qualidade.
@@ -79,7 +91,7 @@ Durante os testes exploratórios no módulo de cursos, foram observadas as segui
 
 ---
 
-## 7. Estrutura do Repositório
+## 8. Estrutura do Repositório
 
 Para manter a clareza e organização, os artefatos gerados durante o desafio estão estruturados da seguinte forma dentro deste repositório:
 ```
@@ -92,6 +104,9 @@ Para manter a clareza e organização, os artefatos gerados durante o desafio es
 - **DOCs/**: Pasta contendo todos os documentos detalhados, como o relatório de análise e a planilha de testes.  
 - **README.md**: Arquivo principal do repositório.
 
+---
+
+## 9. Estrutura do Repositório
 **Autor:** João Silva  
 **Data:** 30/10/2025  
 **Contexto:** Beedoo - QA Chalenge
